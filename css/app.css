@@ -12,7 +12,7 @@ a:hover{
   margin-top: 35px;
 }
 .home{
-  background: url("../img/slider.png");
+  background: url("../img/slider.png") no-repeat;
   color: #e4e4e4;
 }
 h1{
